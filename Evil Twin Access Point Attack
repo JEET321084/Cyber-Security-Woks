@@ -1,0 +1,4 @@
+Objective:
+-----------
+The goal of this project is to create a rogue WiFi access point (Evil Twin) that mimics a legitimate WiFi network. 
+Once users connect, the attacker can intercept their data, redirect them to phishing pages, or perform a Man-in-the-Middle (MITM) attack to steal credentials.
